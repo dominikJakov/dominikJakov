@@ -27,6 +27,3 @@ I am a Software Engineer student <img src="https://media.giphy.com/media/WUlplcM
 - 🎓 Graduating at Informatics
 - :zap: In my free time, I solve problems on GeeksforGeeks and play Chess.
 - 🎮 Love to play video games  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikJakov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
