@@ -25,5 +25,6 @@ Dominik Jakov Gorickic <br>
 ## About me
 I am a Software Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Austria.
 - 🎓 Graduating at Informatics
-- 💾 Computer Techinician 
+- :zap: In my free time, I solve problems on GeeksforGeeks and play Chess.
+- 🎮 Love to play video games  
 
