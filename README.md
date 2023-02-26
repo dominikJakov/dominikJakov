@@ -11,10 +11,11 @@ Dominik Jakov Gorickic <br>
   <a href="https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ </div>
 [![Spotify](https://img.shields.io/badge/-Gmail-03989E?style=flat-square&labelColor=03989E&logo=gmail&logoColor=white&link=mailto:lavinia.beghini@gmail.com)](mailto:lavinia.beghini@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-03989E?style=flat-square&labelColor=03989E&logo=spotify&logoColor=white&link=https://open.spotify.com/user/hobbit.beghini?si=ace7584717104fcf)](https://open.spotify.com/user/hobbit.beghini?si=ace7584717104fcf)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-03989E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beghini/)](https://www.linkedin.com/in/beghini/)
-</div>
+
 
 
 </div>
