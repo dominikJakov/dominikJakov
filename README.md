@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>
 <sub> Hello, my name is </sub> <br>
-Lavínia Beghini <br>
+Dominik Jakov Gorickic <br>
 </h1>
 
 <div id="header" align="center">
@@ -13,7 +13,7 @@ Lavínia Beghini <br>
     <img src="https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/" alt="LinkedIn Badge"/>
   </a>
   <a href="your-gmail-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+   [![Spotify](https://img.shields.io/badge/-Gmail-03989E?style=flat-square&labelColor=03989E&logo=gmail&logoColor=white&link=mailto:dominik.j.gorickic@gmail.com)](mailto:dominik.j.gorickic@gmail.com)
   </a>
 
 </div>
