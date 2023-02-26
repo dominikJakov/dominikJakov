@@ -12,7 +12,7 @@ Dominik Jakov Gorickic <br>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-    <a href="dominik.j.gorickic@gmail.com">
+  <a href="[dominik.j.gorickic@gmail.com](https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/)">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
  </div>
