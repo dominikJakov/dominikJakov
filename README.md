@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>
 <sub> Hello, my name is </sub> <br>
 Dominik Jakov Gorickic <br>
@@ -12,9 +11,7 @@ Dominik Jakov Gorickic <br>
   <a href="your-linkedin-URL">
     <img src="https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-gmail-URL">
-   [![Spotify](https://img.shields.io/badge/-Gmail-03989E?style=flat-square&labelColor=03989E&logo=gmail&logoColor=white&link=mailto:dominik.j.gorickic@gmail.com)](mailto:dominik.j.gorickic@gmail.com)
-  </a>
+
 
 </div>
 
