@@ -28,3 +28,6 @@ I am a Software Engineer student <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and play Chess.
 - 🎮 Love to play video games  
 
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=dominikJakov
