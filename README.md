@@ -29,5 +29,4 @@ I am a Software Engineer student <img src="https://media.giphy.com/media/WUlplcM
 - 🎮 Love to play video games  
 
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=dominikJakov
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikJakov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
