@@ -8,11 +8,11 @@ Dominik Jakov Gorickic <br>
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:dominik.j.gorickic@gmail.com">
+  <a href="https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="[dominik.j.gorickic@gmail.com](https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/)">
+  <a href="mailto:dominik.j.gorickic@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
  </div>
