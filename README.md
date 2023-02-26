@@ -23,8 +23,7 @@ Dominik Jakov Gorickic <br>
 
 
 ## About me
-
-- 🚀 Software Engineer
-- 🎓 Graduating at Computer Information Systems 
+I am a Software Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Austria.
+- 🎓 Graduating at Informatics
 - 💾 Computer Techinician 
-- ✈️ Informatics Exchange Student
+
