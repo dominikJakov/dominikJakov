@@ -18,7 +18,6 @@ Dominik Jakov Gorickic <br>
 
 
 
-</div>
 
 
 ## About me
