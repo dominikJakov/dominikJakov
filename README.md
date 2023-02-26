@@ -9,8 +9,10 @@ Dominik Jakov Gorickic <br>
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/dominik-jakov-gorickic-a23429225/" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+</div>
 
 
 </div>
